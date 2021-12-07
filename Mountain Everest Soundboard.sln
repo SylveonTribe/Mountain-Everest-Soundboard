@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mountain Everest Soundboard", "Mountain Everest Soundboard\Mountain Everest Soundboard.csproj", "{169944DC-0193-4C2F-8BA7-7BF13196DB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169944DC-0193-4C2F-8BA7-7BF13196DB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169944DC-0193-4C2F-8BA7-7BF13196DB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169944DC-0193-4C2F-8BA7-7BF13196DB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169944DC-0193-4C2F-8BA7-7BF13196DB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85BF19A2-A4E5-4BAB-8456-676F569D8C83}
+	EndGlobalSection
+EndGlobal
